@@ -1,6 +1,6 @@
 # Simple OS 
 
-A freestanding Rust binary upon which OS abstractions can be built on top of.
+A freestanding Rust binary upon which OS abstractions can be built.
 
 ## Initial Setup
 
